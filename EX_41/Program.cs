@@ -5,7 +5,7 @@
 
 
 Console.Clear();
-Console.WriteLine("Введите количество чисел N:");
+Console.WriteLine("Введите количество чисел M:");
 int num = Convert.ToInt32(Console.ReadLine());
 int[] array = CreateAndFillIntArray(num);
 
